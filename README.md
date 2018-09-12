@@ -1,8 +1,8 @@
 # wmh_ibbmTum
 winning method for WMH segmentation challenge in MICCAI 2017
 
-Requirement: 
-Keras 1.2, Tensorflow, h5py
+Requirements: 
+Keras 2.0.5, Tensorflow, Python 2.7, h5py
 
 
 For the weights of the model we submitted to the challenge, please download them via: https://drive.google.com/drive/folders/1i4Y9M0yW3JN_WC8Fj1VlCdaE2lvG_9Ar . You can use these models for segmenting your cases. We also have Docker file to do segmentation if you are interested. Please feel free to contact me.   
@@ -20,5 +20,6 @@ masks_three_datasets_sorted.npy: preprocessed masks including Utrecht, Singapore
 
 
 
-The detailed description of our method is published in NeuroImage: https://www.sciencedirect.com/science/article/pii/S1053811918305974?via%3Dihub
+The detailed description of our method is published in NeuroImage: https://www.sciencedirect.com/science/article/pii/S1053811918305974?via%3Dihub 
+Please cite our work if you find the code is useful for your research.
 
