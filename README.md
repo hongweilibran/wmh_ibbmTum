@@ -2,7 +2,7 @@
 winning method for WMH segmentation challenge in MICCAI 2017
 
 Requirement: 
-Keras 1.2, Tensorflow
+Keras 1.2, Tensorflow, h5py
 
 
 For the weights of the model we submitted to the challenge, please download them via: https://drive.google.com/drive/folders/1i4Y9M0yW3JN_WC8Fj1VlCdaE2lvG_9Ar 
