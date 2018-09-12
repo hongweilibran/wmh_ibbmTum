@@ -5,7 +5,7 @@ Requirement:
 Keras 1.2, Tensorflow, h5py
 
 
-For the weights of the model we submitted to the challenge, please download them via: https://drive.google.com/drive/folders/1i4Y9M0yW3JN_WC8Fj1VlCdaE2lvG_9Ar 
+For the weights of the model we submitted to the challenge, please download them via: https://drive.google.com/drive/folders/1i4Y9M0yW3JN_WC8Fj1VlCdaE2lvG_9Ar . You can use these models for segmenting your cases. We also have Docker file to do segmentation if you are interested. Please feel free to contact me.   
 
 For the .npy files to run the leave-one-subject-out experiments, please download via: https://drive.google.com/open?id=1m0H9vbFV8yijvuTsAqRAUQGGitanNw_k
 
