@@ -15,7 +15,7 @@ train_leave_one_out.py: train U-Net models under leave-one-subject-out protocol.
 test_leave_one_out.py: test U-Net models under leave-one-subject-out protocol. The codes also include the preprocessing of the original data.
 evaluation.py: evaluation code provided by the challenge organizor. 
 
-images_three_datasets_sorted.npy: preprocessed dataset including Utrecht, Singapore and GE3T.
-masks_three_datasets_sorted.npy: preprocessed masks including Utrecht, Singapore and GE3T corresponding to the preprocessed data.
+images_three_datasets_sorted.npy: preprocessed dataset including Utrecht, Singapore and GE3T. The order of the patients is sorted.
+masks_three_datasets_sorted.npy: preprocessed masks including Utrecht, Singapore and GE3T corresponding to the preprocessed data. The order of the patients is sorted.
 
 
