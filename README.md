@@ -1,7 +1,11 @@
 # Instructions for winning method in MICCAI 2017 WMH segmentation challenge
 
 ### testing your cases
-A simple-to-use demo code could be downloaded here: https://drive.google.com/file/d/1tjk8CXjGYeddbaPCc1P5r-_ACUFcMut4/view?usp=sharing . The detailed instruction is in ReadMe inside.
+A simple-to-use demo code could be downloaded here: https://drive.google.com/file/d/1tjk8CXjGYeddbaPCc1P5r-_ACUFcMut4/view?usp=sharing . The detailed instruction is in ReadMe inside. 
+Simply, just run: 
+```
+test_your_data.py
+```
 
 
 ### some instructions for the public codes
