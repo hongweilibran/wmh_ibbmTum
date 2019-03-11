@@ -32,5 +32,5 @@ masks_three_datasets_sorted.npy: preprocessed masks including Utrecht, Singapore
 
 
 
-* The detailed description of our method is published in [[NeuroImage]] (https://arxiv.org/pdf/1802.05203.pdf). Please cite our work if you find the code is useful for your research.
+* The detailed description of our method is published in [[NeuroImage]](https://arxiv.org/pdf/1802.05203.pdf). Please cite our work if you find the code is useful for your research.
 
