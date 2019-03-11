@@ -1,15 +1,15 @@
 # Instructions for winning method in MICCAI 2017 WMH segmentation challenge
 
 ### testing your cases
-A simple-to-use demo code could be downloaded here: https://drive.google.com/file/d/1tjk8CXjGYeddbaPCc1P5r-_ACUFcMut4/view?usp=sharing . The detailed instruction is in ReadMe inside. 
+A easy-to-use demo code could be downloaded here: https://drive.google.com/file/d/1tjk8CXjGYeddbaPCc1P5r-_ACUFcMut4/view?usp=sharing . It support single modality (FLAIR) and two-modality (FLAIR and T1) as the the input. The detailed instruction is in **ReadMe** inside. Please have a look at it.
 Simply, just run: 
 ```
-test_your_data.py
+python test_your_data.py
 ```
 
 
 ### some instructions for the public codes
-Requirements: 
+*Requirements: 
 Keras 2.0.5, Tensorflow, Python 2.7, h5py
 
 
@@ -30,6 +30,6 @@ masks_three_datasets_sorted.npy: preprocessed masks including Utrecht, Singapore
 
 
 
-The detailed description of our method is published in NeuroImage: https://www.sciencedirect.com/science/article/pii/S1053811918305974?via%3Dihub .
-Please cite our work if you find the code is useful for your research.
+*The detailed description of our method is published in NeuroImage: https://www.sciencedirect.com/science/article/pii/S1053811918305974?via%3Dihub .
+*Please cite our work if you find the code is useful for your research.
 
