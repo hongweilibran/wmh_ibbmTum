@@ -1,5 +1,10 @@
 # Instructions for winning method in MICCAI 2017 WMH segmentation challenge
 
+### testing your cases
+A simple-to-use demo code could be downloaded here: https://drive.google.com/file/d/1tjk8CXjGYeddbaPCc1P5r-_ACUFcMut4/view?usp=sharing . The detailed instruction is in ReadMe inside.
+
+
+### some instructions for the public codes
 Requirements: 
 Keras 2.0.5, Tensorflow, Python 2.7, h5py
 
