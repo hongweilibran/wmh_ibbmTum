@@ -1,5 +1,5 @@
-# wmh_ibbmTum
-winning method for WMH segmentation challenge in MICCAI 2017
+## white matter lesions segmentation
+# winning method for WMH segmentation challenge in MICCAI 2017
 
 Requirements: 
 Keras 2.0.5, Tensorflow, Python 2.7, h5py
