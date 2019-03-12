@@ -6,7 +6,7 @@ Simply, just run:
 ```
 python test_your_data.py
 ```
-The dockerfile submitted to the WMh challenge is available: 
+The dockerfile submitted to the WMH challenge is available: 
 ```
 docker pull wmhchallenge/sysu_media
 ```
