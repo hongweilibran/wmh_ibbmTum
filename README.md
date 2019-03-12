@@ -31,7 +31,4 @@ images_three_datasets_sorted.npy: preprocessed dataset including Utrecht, Singap
 masks_three_datasets_sorted.npy: preprocessed masks including Utrecht, Singapore and GE3T corresponding to the preprocessed data. The order of the patients is sorted.
 
 
-```
-
-The detailed description of our method is published in [[NeuroImage]](https://arxiv.org/pdf/1802.05203.pdf). Please cite our work if you find the code is useful for your research.
-```
+* The detailed description of our method is published in [[NeuroImage]](https://arxiv.org/pdf/1802.05203.pdf). Please cite our work if you find the codeis useful for your research.
