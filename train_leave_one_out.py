@@ -1,5 +1,5 @@
 #Codes for validating the WMH Segmetation Challenge public training Datasets. The algorithm won the MICCAI WMH Segmentation Challenge 2017.
-#Codes are written by Mr. Hongwei Li (h.l.li@dundee.ac.uk; hongwei.li@tum.de) and Mr. Gongfa Jiang (jianggfa@mail2.sysu.edu.cn). They are PhD students in Technical University of Munich and Sun Yat-sen University.
+#Codes are written by Mr. Hongwei Li (hongwei.li@tum.de) and Mr. Gongfa Jiang (jianggfa@mail2.sysu.edu.cn). They are PhD students in Technical University of Munich and Sun Yat-sen University.
 #Please cite our paper titled 'Fully Convolutional Networks Ensembles for White Matter Hyperintensities Segmentation in MR Images' if you found it is useful to your research.
 #Please contact me if there is any bug you want to report or any details you would like to know. 
 
