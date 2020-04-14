@@ -1,4 +1,5 @@
 # Instructions for running the winning method in MICCAI 2017 WMH segmentation challenge
+Thanks to Weiqing, python3 verison is here: https://github.com/FourierX9/wmh_ibbmTum.
 
 ### Testing your cases
 An easy-to-use demo code could be downloaded here: https://drive.google.com/file/d/1tjk8CXjGYeddbaPCc1P5r-_ACUFcMut4/view?usp=sharing . It supports single modality (FLAIR) and two-modality (FLAIR and T1) as the the input. The detailed instructions are in **ReadMe** inside. Please have a look at it.
