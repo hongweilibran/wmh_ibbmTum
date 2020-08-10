@@ -1,5 +1,5 @@
 #Codes for validating the WMH Challenge training Datasets. The algorithm won the WMH Challenge.
-#Codes are written by Mr. Hongwei Li (h.l.li@dundee.ac.uk), Mr. Gongfa Jiang and Miss. Zhaolei Wang from Sun Yat-sen University and University of Dundee.
+#Codes are written by Mr. Hongwei Li (hongwei.li@tum.de), Mr. Gongfa Jiang and Miss. Zhaolei Wang from Sun Yat-sen University and University of Dundee.
 #
 
 from __future__ import print_function
