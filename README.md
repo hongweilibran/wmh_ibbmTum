@@ -11,7 +11,7 @@ To run the script, first, you could use [miniconda](https://askubuntu.com/questi
 Second, inside the virtual environment, install the following packages via: 
 ```
 pip install numpy==2.2.6 SimpleITK==2.5.2 scipy==1.15.3
-pip install tensorflow==2.15.0 --break-system-packages 
+pip install tensorflow==2.15.0
 ```
 Then download the pre-trained models [here](https://drive.google.com/file/d/1zyRl2nzruts98gve0CPVYsEFZd_znzgy/view?usp=sharing) and place them to _model_ folder. You can perform segmentation (FLAIR-T1 input as the default) via: 
 
