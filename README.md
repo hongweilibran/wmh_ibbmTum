@@ -46,4 +46,4 @@ Here is one segmentation example from the test set (GE3T, Subject 111) using the
 
 
 ### Citation
-The detailed description of our method is published in [NeuroImage](https://arxiv.org/pdf/1802.05203.pdf). It is still very competitive 🔥, although it is 7-year-old, 2D U-Net based. Please cite our work if you find the codeis useful for your research. A more robust and accurate approach is to come. 
+The detailed description of our method is published in [NeuroImage](https://arxiv.org/pdf/1802.05203.pdf). It is still very competitive 🔥, although it is 7-year-old, 2D U-Net based. Please cite our work if you find the codes useful for your research. A more robust and accurate approach is to come. 
