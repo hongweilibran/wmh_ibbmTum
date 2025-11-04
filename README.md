@@ -1,24 +1,24 @@
-This repository provides codes, models and containers for white matter hyperintensity segmentation in brain MR images with deep learning. 
+This repository provides codes, models, and containers for white matter hyperintensity segmentation in brain MR images with deep learning. 
 (The latest update was made on 03 November 2025)
 ### Use our pre-trained models for your MRI data (CPU only)
-We provide two types of models to support two types of inputs: (1) FLAIR-only image, and (2) FLAIR/T1 images. The segmenation is done in the native resolution. 
+We provide two types of models to support two types of inputs: (1) FLAIR-only image, and (2) FLAIR/T1 images. The segmentation is done in the native resolution. 
 We provide three options depending on your setup.
 
 #### Python 3.10 and Tensorflow
 The test dataset is expected to be in [BIDS](https://bids.neuroimaging.io/index.html) format. You will see an example in the _input_dir_ folder.
 
 To run the script, first, you could use [miniconda](https://askubuntu.com/questions/1240489/how-can-i-download-and-install-miniconda) to set up the virtual environment (Python version is 3.10 or higher).  
-Second, inside the virtual enviroment, install the following packages via: 
+Second, inside the virtual environment, install the following packages via: 
 ```
 pip install numpy==2.2.6 SimpleITK==2.5.2 scipy==1.15.3
 pip install tensorflow==2.15.0 --break-system-packages 
 ```
-Then download the pre-trained models [here](https://drive.google.com/file/d/1zyRl2nzruts98gve0CPVYsEFZd_znzgy/view?usp=sharing) and place them to the _model_ folder. you can do segmenation (FLAIR-T1 input as the default) via: 
+Then please download the pre-trained models [here](https://drive.google.com/file/d/1zyRl2nzruts98gve0CPVYsEFZd_znzgy/view?usp=sharing) and place them to the _model_ folder. Finally, you can do segmentation (FLAIR-T1 input as the default) via: 
 
 ```
 python test_tf2.py 
 ```
-Here is one segmentation example from the test set (GE3T, subejct 111) using the above models: 
+Here is one segmentation example from the test set (GE3T, Subject 111) using the above models: 
 
 <p align="center">
   <img src="assets/raw.png" alt="Raw MRI" width="25%">
@@ -26,7 +26,7 @@ Here is one segmentation example from the test set (GE3T, subejct 111) using the
 </p>
 
 <p align="center">
-  <em>Raw brain FLAIR image (left) vs segmentation mask (right)</em> from the test set (GE3T, subejct 111, slide 52)
+  <em>Raw brain FLAIR image (left) vs segmentation mask (right)</em> from the test set (GE3T, Subject 111, slide 52)
 </p>
 
 
