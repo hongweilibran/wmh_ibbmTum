@@ -1,6 +1,6 @@
 ## The best-performing algorithm in the WMH segmentation challenge at MICCAI 
 This repository provides codes, models, and containers for white matter hyperintensity segmentation in brain MR images with deep learning. 
-(The latest update was made on 03 November 2025)
+(The latest update was made on 03 November 2025 🔥)
 ### Use our pre-trained models for your MRI data (CPU only)
 We provide two types of models to support two types of inputs: (1) FLAIR-only image, and (2) FLAIR/T1 images. The segmentation is done in the native resolution. 
 We provide two options depending on your setup.
@@ -46,4 +46,4 @@ Here is one segmentation example from the test set (GE3T, Subject 111) using the
 
 
 ### Citation
-The detailed description of our method is published in [NeuroImage](https://arxiv.org/pdf/1802.05203.pdf). It is still very competitive although it is a 7-year-old 2D UNet based approach. Please cite our work if you find the codeis useful for your research. A more robust and accurate approach is to come. 
+The detailed description of our method is published in [NeuroImage](https://arxiv.org/pdf/1802.05203.pdf). It is still very competitive 🔥, although it is 7-year-old, 2D U-Net based. Please cite our work if you find the codeis useful for your research. A more robust and accurate approach is to come. 
