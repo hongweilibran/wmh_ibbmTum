@@ -1,4 +1,4 @@
-### The best-performing algorithm in the WMH segmentation challenge at MICCAI 
+## The best-performing algorithm in the WMH segmentation challenge at MICCAI 
 This repository provides codes, models, and containers for white matter hyperintensity segmentation in brain MR images with deep learning. 
 (The latest update was made on 03 November 2025)
 ### Use our pre-trained models for your MRI data (CPU only)
