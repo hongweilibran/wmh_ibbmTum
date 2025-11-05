@@ -24,7 +24,7 @@ python test_tf2.py
 You could pull the container via: 
 
 ```
-docker pull wmh_seg_tf:latest 
+docker pull branhongweili/wmh_seg_tf:latest 
 ```
 Similarly, you would need to prepare the dataset in [BIDS](https://bids.neuroimaging.io/index.html) format and then run the container to perform segmentation via: 
 ```
